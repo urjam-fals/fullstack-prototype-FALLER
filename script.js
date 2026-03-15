@@ -1363,5 +1363,3 @@ function renderLeaveRequestsTable(leaveRequests, isAdmin = false) {
     }
   });
 }
-
-
